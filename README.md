@@ -2,6 +2,15 @@
 # Soft Drink Market Insight — Alimosho, Lagos  
 **Power BI • Data Analysis • Geo-Analytics**
 
+## 📸 Dashboard Preview
+
+<p align="center">
+  <img src="./Dashboard Report/page1_overview.png" width="32%" />
+  <img src="./Dashboard Report/page2_stock_packaging.png" width="32%" />
+  <img src="./Dashboard Report/page3_geo_analysis.png" width="32%" />
+</p>
+
+
 **Author:** Oluwaseyi Ajayi  
 **Project type:** Market analysis / dashboard for soft drink distribution, availability and packaging in Alimosho LGA, Lagos.
 
